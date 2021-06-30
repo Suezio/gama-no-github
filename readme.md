@@ -1,0 +1,1 @@
+Está sendo uma experiência fantástica participar do treinamento da plataforma Gama Academy promovido pelo Hiring Coders, estou no modulo de git no qual estou aprendendo bastante sobre o versionamento de código. 
